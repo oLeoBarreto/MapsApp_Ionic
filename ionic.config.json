@@ -1,0 +1,7 @@
+{
+  "name": "mapsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
